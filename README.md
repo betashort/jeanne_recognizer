@@ -8,5 +8,5 @@ train・test・predictは公開できません。
 Githubのデスクトップアプリで、コミットしているので、Kerasのモデルやweightデータはアップできません。(アップしません。)  
 
 ## Demoノート
-[デモ：Check_jeanne](check_jeanne.ipynb)  
+[デモ：Check_jeanne](./md_check_jeanne/check_jeanne.md)  
 
